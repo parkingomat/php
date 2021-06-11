@@ -1,1 +1,0 @@
-https://wapka.pl:8443/modules/git/index.php/domain/list?dom_id=27&site_id=48

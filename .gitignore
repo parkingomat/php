@@ -1,4 +1,5 @@
 .idea/
+.plesk.txt
 vendor/
 packagist.bat
 # Logs
