@@ -1,5 +1,4 @@
 <?php
-namespace parkingomat\PleskDomainsPhp;
 
 /**
  * @param $obj
