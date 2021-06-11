@@ -1,11 +1,3 @@
-<?php
-/*
- * https://www.WebPortfolio.pl/index.php?domain=softreck.com
- * http://localhost:8080/index.php?domain=softreck.com
- */
-require("post.php");
-?>
-
 <html>
 <head>
     <meta http-equiv="Content-type" content="text/html; charset=utf-8">
