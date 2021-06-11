@@ -2,7 +2,6 @@
 // http://localhost:8080/index.php
 error_reporting(E_ERROR | E_PARSE);
 
-require("apifunc.php");
 $html = '';
 $dns_url_list = '';
 
@@ -16,7 +15,6 @@ $_POST["ns3"] = "ns3.digitalocean.com";
 //$_POST["email"] = "test@test.com";
 
 try {
-
 
     apifunc([
         'https://php.letjson.com/let_json.php',
