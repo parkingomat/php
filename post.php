@@ -146,7 +146,7 @@ try {
             $html = "Check Code is EMAIL Message, 10 Charts with numbers";
         }
 
-    });
+    }, '../.apifunc');
 
 } catch (Exception $e) {
     // Set HTTP response status code to: 500 - Internal Server Error
