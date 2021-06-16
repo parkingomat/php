@@ -45,5 +45,8 @@ start by composer
 
 
 ---
-
 + [edit](https://github.com/parkingomat/plesk.domains.php/edit/main/README.md)
++ [git](https://github.com/parkingomat/plesk.domains.php)
+```
+https://github.com/parkingomat/plesk.domains.php.git
+```
